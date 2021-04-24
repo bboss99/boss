@@ -1,0 +1,184 @@
+{
+  "TextFieldActiveColor": [0.8, 0.5, 0.5, 1],
+  "ToggleTrueColor": [0.0, 0.5, 0.0, 1],
+  "ToggleFalseColor": [1, 0.3, 0.3, 1],
+  "DisabledColor": [0.4, 0.4, 0.4, 1],
+  "GlobalOpacity": 0.5,
+  "UseGlobalOpacity": false,
+
+  "GlobalFontSize": 15,
+  "GlobalFontColor": [1.0,1.0,1.0,1.0],
+  "GlobalFontId": 0,
+  "GlobalFontDpi": 72,
+
+  "Empty": {
+    "geoData": null,
+    "textData": null
+  },
+  "Panel": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.1, 0.1, 0.1, 1],
+      "hover_color": [0.15, 0.15, 0.15, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "VectorBG": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.3, 0.3, 0.3, 1.0],
+      "hover_color": [0.35, 0.35, 0.35, 1.0],
+      "image_path": ""
+    },
+    "textData": null
+  },
+  "Button": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.06, 0.30, 0.54, 1.0],
+      "hover_color": [0.1, 0.45, 0.80, 1.0],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "CheckBox": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0, 1, 0, 1],
+      "hover_color": null,
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "SliderBase": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [1, 0, 0, 1],
+      "hover_color": null,
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "SliderBar": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [1, 1, 1, 1],
+      "hover_color": [1, 0, 1, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "TextField": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.25, 0.51, 0.07, 1],
+      "hover_color": [0.27, 0.58, 0.20, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "IntField": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.8, 0.3, 0, 1],
+      "hover_color": [0.8, 0.5, 0, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "FloatField": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.3, 0.3, 1, 1],
+      "hover_color": [0.5, 0.3, 1, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "ColorField": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [1.0, 1.0, 1.0, 1.0],
+      "hover_color": null,
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "DropDownBox": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.12, 0.03, 1, 1],
+      "hover_color": [0.16, 0.08, 1, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "DropDownBoxOption": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.4, 0.4, 1, 1],
+      "hover_color": [0.6, 0.6, 1, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "Slider2": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.4, 0.4, 1, 1],
+      "hover_color": [0.6, 0.6, 1, 1],
+      "image_path": ""
+    },
+    "textData": null
+  },
+  "Slider2Bar": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.4, 0.4, 1, 1],
+      "hover_color": [0.6, 0.6, 1, 1],
+      "image_path": ""
+    },
+    "textData": null
+  },
+  "Slider2Text": {
+    "geoData": null,
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "MenuTitle": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.85, 0.28, 0.67, 1.0],
+      "hover_color": [0.89, 0.44, 0.74, 1.0],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 20,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "MenuTextButton1": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.42, 0.18, 0.73, 1.0],
+      "hover_color": [0.56, 0.26, 0.92, 1.0],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "MenuTextButton2": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.10,0.10,0.15,1.0],
+      "hover_color": [0.13,0.13,0.18,1.0],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  },
+  "MenuImageButton": {
+    "geoData": {
+      "geo_type": "Rect",
+      "normal_color": [0.8, 0.8, 0.8, 1],
+      "hover_color": [0.9, 0.9, 0.9, 1],
+      "image_path": ""
+    },
+    "textData": {      "fontSize": 15,      "font_id": 2,      "align": "Center",      "color": [1, 1, 1, 1]    }
+  }
+}
